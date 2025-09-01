@@ -14,7 +14,7 @@
 # 1. Clona el repositorio:
 ```
 git clone https://github.com/LucianoFlores1/grok-image-generator.git
-cd grok-image-generator
+cd GROK_IA_API/
 ```
 
 # 2. Crea un entorno virtual e instala dependencias:
@@ -34,19 +34,21 @@ pip install -r requirements.txt
 ```
 
 # 3. Configura tu clave de la API Grok:
-Crea un archivo `.env` en la raíz del proyecto con tu API Key:
+Crea un archivo `.env` en la raíz del proyecto que contendrá tu API Key, por ejemplo: XAI_API_KEY=
 
 ---
 
 Así deberia de quedar tu carpeta:
-### GROK_IA_API/
-### │
-### ├──📁venv
-### ├──.env
-### ├──.gitignore
-### ├──main.py
-### ├──README.md
-### ├──requirements.txt
+#### GROK_IA_API/
+#### │
+#### ├──📁venv
+#### ├──.env
+#### ├──.gitignore
+#### ├──main.py
+#### ├──README.md
+#### ├──requirements.txt
+
+
 
 
 
