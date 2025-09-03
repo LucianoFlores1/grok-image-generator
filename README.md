@@ -78,6 +78,7 @@ Modificarla retornara mas imagenes con un limite de 10. Por ejemplo:
 
 ---
 # Felicidades generaste una imagen
+# Advertencia!!! Importante!!! Recuerda que Generar cada imagen cuesta aproximadamente $0.07 (de dolar).
 
 
 
