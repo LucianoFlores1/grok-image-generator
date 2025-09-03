@@ -34,9 +34,9 @@ pip install -r requirements.txt
 ```
 
 # 3. Configura tu clave de la API Grok:
-Crea un archivo `.env` en la raíz del proyecto que contendrá tu API Key, por ejemplo: XAI_API_KEY=
-
----
+Crea un archivo `.env` en la raíz del proyecto que contendrá tu API Key, 
+### El archivo debe contener un codigo, como por ejemplo: 
+XAI_API_KEY=xai-EG3xZlhX5S1jqDdgDBucMD6kaCshHO6BPI8TtXpONatZ5eo3KerfTNZJuzMfWqv2ft
 
 Así deberia de quedar tu carpeta:
 #### GROK_IA_API/
@@ -47,6 +47,14 @@ Así deberia de quedar tu carpeta:
 #### ├──main.py
 #### ├──README.md
 #### ├──requirements.txt
+
+# 4. 
+
+# 5. Ahora solo queda Ejecutar la aplicación en tu terminal:
+```python main.py```
+
+---
+#Felicidades generaste una imagen
 
 
 
