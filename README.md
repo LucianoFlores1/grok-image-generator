@@ -4,7 +4,7 @@
 
 ---
 
-# Prerrequisitos
+# 📋 Prerrequisitos
 - Python 3.8+.
 - Dependencias: `pip install -r requirements.txt` (`openai`, `python-dotenv`).
 - API key de xAI (obtén una en https://console.x.ai/, requiere facturación).
@@ -55,6 +55,7 @@ Así deberia de quedar tu carpeta:
 
 ---
 #Felicidades generaste una imagen
+
 
 
 
