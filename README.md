@@ -16,7 +16,7 @@
 # 1. Clona el repositorio:
 ```
 git clone https://github.com/LucianoFlores1/grok-image-generator.git
-cd GROK_IA_API/
+cd grok-image-generator
 ```
 
 # 2. Crea un entorno virtual e instala dependencias:
@@ -79,6 +79,7 @@ Modificarla retornara mas imagenes con un limite de 10. Por ejemplo:
 ---
 # Felicidades generaste una imagen
 # Advertencia!!! Importante!!! Recuerda que Generar cada imagen cuesta aproximadamente $0.07 (de dolar).
+
 
 
 
