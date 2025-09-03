@@ -10,6 +10,8 @@
 - API key de xAI (obtén una en https://console.x.ai/, requiere facturación).
 - Archivo `.env` con `XAI_API_KEY=tu_clave` (ESTA ES LA APIKEY. Aquí te dejo un tutorial de como conseguirla ).
 
+---
+
 ## Instalación: Solo copia y pegá los siguientes comandos en tu terminal
 # 1. Clona el repositorio:
 ```
@@ -48,13 +50,35 @@ Así deberia de quedar tu carpeta:
 #### ├──README.md
 #### ├──requirements.txt
 
-# 4. 
+# 4. Al final de el archivo main.py se encuentran las siguientes lineas de codigo
+
+```
+if __name__ == "__main__":
+    prompt = "A mid Poodle, curly-haired dog lying peacefully on a light beige tiled floor"
+    generate_image(prompt, num_images=1, format="url")
+```
+
+Para generar una imagen es necesario modificar esta variable, el texto indicara la imagen que se generará, 
+por ejemplo:
+
+`prompt = "Un hombre amarillo disfrazado de el hombre pie, hiperrealista"`
+
+`prompt = "Una anciana cayendose por las escaleras"`
+
+`prompt = "Un niño siniestro"`
+
+El numero de imagenes generadas por prompt depende de la variable `num_images=` 
+Modificarla retornara mas imagenes con un limite de 10. Por ejemplo:
+
+`num_images = 2` `num_images = 8` `num_images = 10` 
+
 
 # 5. Ahora solo queda Ejecutar la aplicación en tu terminal:
 ```python main.py```
 
 ---
-#Felicidades generaste una imagen
+# Felicidades generaste una imagen
+
 
 
 
