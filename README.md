@@ -1,4 +1,4 @@
-# 🖼️ **USA LA API DE GROK PARA GENERAR IMAGENES EN 3 SIMPLES PASOS**
+# 🖼️ **USA LA API DE GROK PARA GENERAR IMAGENES EN 5 SIMPLES PASOS**
 
 ## Descripción: Este repositorio contiene un script en Python que usa la API de Grok para generar imagenes a partir de un promt de texto
 
@@ -79,6 +79,7 @@ Modificarla retornara mas imagenes con un limite de 10. Por ejemplo:
 ---
 # Felicidades generaste una imagen
 # Advertencia!!! Importante!!! Recuerda que Generar cada imagen cuesta aproximadamente $0.07 (de dolar).
+
 
 
 
