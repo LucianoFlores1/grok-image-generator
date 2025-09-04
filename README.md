@@ -7,8 +7,8 @@
 # 📋 Prerrequisitos
 - Python 3.8+.
 - Dependencias: `pip install -r requirements.txt` (`openai`, `python-dotenv`).
-- API key de xAI (obtén una en https://console.x.ai/, requiere facturación).
-- Archivo `.env` con `XAI_API_KEY=tu_clave` (ESTA ES LA APIKEY. Aquí te dejo un tutorial de como conseguirla ).
+- API key de xAI (obtén una en https://console.x.ai/, requiere facturación). 
+- Archivo `.env` con `XAI_API_KEY=tu_clave` (Aquí te dejo un tutorial de como conseguirla ) 👉 https://www.linkedin.com/feed/update/urn:li:activity:7369174975708123136/
 
 ---
 
@@ -79,6 +79,7 @@ Modificarla retornara mas imagenes con un limite de 10. Por ejemplo:
 ---
 # Felicidades generaste una imagen
 # Advertencia!!! Importante!!! Recuerda que Generar cada imagen cuesta aproximadamente $0.07 (de dolar).
+
 
 
 
